@@ -1,0 +1,7 @@
+[package]
+name = "cargo-chef-build-rs"
+version = "0.1.0"
+authors = ["strohel"]
+edition = "2018"
+
+[dependencies]
