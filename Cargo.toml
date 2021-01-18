@@ -9,3 +9,4 @@ build = "build.rs"
 built = "0.4"
 
 [dependencies]
+clap = "2.0"
